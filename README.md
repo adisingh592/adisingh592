@@ -66,7 +66,7 @@
 <h3><code>aditya@github ~ $ ./links.sh</code></h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adisingh592-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adisingh592)
-[![Email](https://img.shields.io/badge/Email-prtapaditya555666%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prtapaditya555666@gmail.com)
+[![Email](https://img.shields.io/badge/Email-prtapaditya592%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prtapaditya555666@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-adisingh592-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adisingh592)
 
 <br>
